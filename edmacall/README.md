@@ -1,6 +1,6 @@
 # Alpha Centuari
 
-## Ed MaCall's branch   
+## Ed Macall's branch   
 
 test
 
